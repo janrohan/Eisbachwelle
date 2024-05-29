@@ -5,7 +5,7 @@ A predictive model to estimate the amount of surfers on the Eisbachwelle in Muni
 
 ## Project Structure
 - `data/`: Contains all data-related files.
-- `scripts/´: defined processes to run whole model.
+- `scripts/`: defined processes to run whole model.
 - `src/`: Source code organized by functionality.
 - `models/`: Serialized models.
 - `tests/`: Unit tests for the code.
